@@ -95,3 +95,11 @@ nav {
     font-size: 0.9rem;
     margin-top: 5px;
 }
+
+/* B&B Tab Background */
+#bb {
+    background-image: url('IMG_3074.jpeg');
+    background-size: cover; /* This will make the image cover the entire tab area */
+    background-position: center; /* This will center the image */
+    color: white; /* You might want to adjust text color for readability */
+}
